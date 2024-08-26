@@ -1,0 +1,9 @@
+footer {
+  background-color: var(--color-primary-alpha);
+  height: 15rem;
+}
+
+.socials-container {
+  display: flex;
+  gap: 0.5rem;
+}
